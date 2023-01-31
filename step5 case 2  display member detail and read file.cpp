@@ -51,7 +51,7 @@ void member::addMember()
 				cin >> x;
 			break;
 		
-		case 2: 
+		case 3: 
 		 display();
 		 break;
 		
