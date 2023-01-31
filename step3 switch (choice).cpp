@@ -79,8 +79,6 @@ void member::insert() // Adding Member Detail.
 }
 void member::showDetail()
 {
-	system("cls");
-	fstream file;
 	cout << "=====> WELCOME <=====" << endl;
 	cout<<"Member Name 	: "<<name<<endl;
 	cout<<"Member Number: "<<id_no<<endl;
